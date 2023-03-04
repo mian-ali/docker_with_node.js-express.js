@@ -1,0 +1,24 @@
+{
+  "name": "docker_with_node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/mian-ali/docker_with_node.js-express.js.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "Ali Ahmad",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
